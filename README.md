@@ -1,3 +1,7 @@
+## It does not work
+
+What you are searching for is pynose https://pypi.org/project/pynose/
+
 ## nose-nose2-proxy
 
 Overrides [nose](https://pypi.org/project/nose/) installation to use [nose2](https://pypi.org/project/nose2/)
